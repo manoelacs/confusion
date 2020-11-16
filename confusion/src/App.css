@@ -1,0 +1,63 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+a.nav-estilo {    
+    color: white;      
+}
+a.nav-estilo:active{
+    color: coral;
+}
+a.nav-estilo:hover
+{      
+    color: cornflowerblue;
+     cursor:pointer;  
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto; 
+    background-color:  #9575CD !important;
+    background: #9575CD;
+    color:floralwhite;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+.navbar-color {
+    background-color: #512DA8;
+    color: white;
+   
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    border: 3px solid green;
+  }
+  .card-subtitle{
+      color: #6c757d !important;
+      font-style: italic;
+      font-size: medium;
+
+  }
+  .hoverContact{
+
+  }
